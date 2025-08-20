@@ -1,0 +1,3 @@
+analise_varejo_online_RFM/
+"Ambiente de Impressão"/
+"Ambiente de Rede"/
